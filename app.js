@@ -11,7 +11,7 @@ app.get('/users',(req,res)=>{
   res.send('<h1>Users</h1>')
 })
 */
-
+/////////s
 // var mysequelize = require('./config/database/connection')
 // var usermodel = require('./model/usermodel')
 
